@@ -1,10 +1,10 @@
- .zanr {font-size: 300%;text-align: center;text-decoration: underline;text-transform: uppercase;background: floralwhite;float: left;margin-left: 30px;}
+ .zanr {font-size: 300%;text-align: center;text-transform: uppercase;background: floralwhite;float: left;margin-left: 30px;}
         body {background:url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/greyfloral.png');
             font-size: 200%;font-family: sans-serif;font-weight: bold; justify-content: space-between;line-height: normal;
             }
        
         h1 {
-            font-size: 200%;text-transform: uppercase;text-align: center;margin-bottom: 150px;background: floralwhite; color: darkslateblue; padding-bottom: 50px; padding-top: 100px; border: 10px groove rgb(204, 204, 204);
+            font-size: 200%;text-transform: uppercase;text-decoration: underline;text-align: center;margin-bottom: 150px;background: floralwhite; color: darkslateblue; padding-bottom: 50px; padding-top: 100px; border: 10px groove rgb(204, 204, 204);
         }
         
         h2 {
